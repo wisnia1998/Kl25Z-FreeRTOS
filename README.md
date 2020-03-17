@@ -1,2 +1,2 @@
 # Kl25Z-FreeRTOS
-Frist atempt to RTOS system
+Frist atempt to RTOS system.
